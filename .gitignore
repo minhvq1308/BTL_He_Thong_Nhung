@@ -1,0 +1,28 @@
+# Build output
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+*.cyclo
+
+# IDE ca nhan
+.settings/
+.metadata/
+*.launch
+.vscode/
+.idea/
+*.user
+
+# He thong
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.log
